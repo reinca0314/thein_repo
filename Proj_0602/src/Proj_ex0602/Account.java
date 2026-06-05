@@ -15,7 +15,7 @@ public class Account {
 		
 		void deposit(int amount) {
 			balance += amount;
-			System.out.println(balance + "원 입 완료");
+			System.out.println(balance + "원 입금 완료");
 		}
 
 		void withdraw(int amount) {
