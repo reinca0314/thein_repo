@@ -114,3 +114,4 @@ node_modules/
 .DS_Store
 *.java
 123/src/com/kdw/friday.java
+*.temp
