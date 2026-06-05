@@ -109,9 +109,3 @@ node_modules/
 # =========================
 *.tmp
 *.temp
-*.txt
-*.txt
-.DS_Store
-*.java
-123/src/com/kdw/friday.java
-*.temp
